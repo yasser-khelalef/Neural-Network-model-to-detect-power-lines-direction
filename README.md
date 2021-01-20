@@ -1,0 +1,1 @@
+# Neural-Network-model-to-detect-power-lines-direction
